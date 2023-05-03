@@ -1,0 +1,14 @@
+.phrase_container{
+    min-width: 280px;
+    max-width: 500px;
+    background: rgba(255, 255, 255, 0.5);
+    color: #0d0d0e;
+    font-weight: bold;
+    font-size: 21px;
+    border-radius: 39px;
+    padding: 70px 33px;
+    -webkit-border-radius: 39px;
+    -moz-border-radius: 39px;
+    -ms-border-radius: 39px;
+    -o-border-radius: 39px;
+}
